@@ -8,7 +8,7 @@
 </a>
 </p>
 
-<p align="center">Uma ferramenta no terminal que vai auxiliar desenvolvedores no dia a dia com CSS.</p>
+<p align="justify">Uma ferramenta no terminal que vai auxiliar desenvolvedores no dia a dia com CSS.</p>
 
 ## Tarefas memo:
 <p align="justify">Usar o Node para montar um código que vai receber uma lista de propriedades de CSS e vai devolver essa lista ordenada de A-Z. Ordenar o CSS ajuda a encontrar mais rápido apropriedade que precisamos alterar</p>
