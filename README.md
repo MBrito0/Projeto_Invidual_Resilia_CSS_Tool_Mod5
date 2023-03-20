@@ -29,5 +29,4 @@
 <br>
 
 ## <h2 align="center"> :camera: Print do terminal</h2>
-
 ![printTerminal](https://user-images.githubusercontent.com/115156601/226239399-bccf5297-8a60-4161-98e5-3652db758186.png)
