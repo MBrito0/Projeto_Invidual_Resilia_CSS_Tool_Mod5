@@ -25,4 +25,4 @@
  
   
 ## Instalações :computer:
-`npm init ` `npm install` `npm install readline-sync` `node index.js`
+`npm init ` `npm install` `npm install readline-sync` `node listacss.js`
