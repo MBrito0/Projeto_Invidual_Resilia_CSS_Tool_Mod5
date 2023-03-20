@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&size=31&pause=1000&color=02C39A&multiline=true&width=435&lines=Projeto_Invidual_Resilia_CSS_Tool" alt="Typing SVG" /></a>
 </p> 
-- <p align="justify">Uma ferramenta no terminal que vai auxiliar desenvolvedores no dia a dia com CSS.</p>
+- Uma ferramenta no terminal que vai auxiliar desenvolvedores no dia a dia com CSS.
 
 
 ## :memo: Tarefas
@@ -27,6 +27,6 @@
 ## :computer: Instalações
 `npm init ` `npm install` `npm install readline-sync` `node listacss.js`
 
-## :camera: Print do terminal
+## :camera: <h2 align="center">Print do terminal</h2>
 
 ![printTerminal](https://user-images.githubusercontent.com/115156601/226239399-bccf5297-8a60-4161-98e5-3652db758186.png)
