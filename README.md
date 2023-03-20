@@ -15,7 +15,7 @@
 
 > O código deve rodar em um laço que vai receber propriedades até a pessoa digitar a palavra “SAIR”, quando isso acontecer vai ser impresso no terminal a lista das propriedades ordenadas de A-Z uma em cada linha. :heavy_check_mark:
 
-> entregar um código capaz de receber uma lista depropriedades de CSS. :heavy_check_mark:
+> entregar um código capaz de receber uma lista de propriedades de CSS. :heavy_check_mark:
 <br>
 
 ## :wrench: Tecnologias Utilizadas
